@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+    <post>
+        <title>Przykładowy tytuł 1</title>
+        <content>Przykładowa treść postu 1. Tutaj możesz dodać więcej tekstu, opisującego temat postu.</content>
+    </post>
+    <post>
+        <title>Przykładowy tytuł 2</title>
+        <content>Treść drugiego postu. Ten post może zawierać inne informacje, być może aktualności lub ciekawostki.</content>
+    </post>
+    <post>
+        <title>Przykładowy tytuł 3</title>
+        <content>Trzeci przykładowy post jest tu, aby pokazać, jak można łatwo importować różne posty z pliku XML.</content>
+    </post>
+</posts>

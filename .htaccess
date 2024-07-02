@@ -1,0 +1,6 @@
+<Files "tajne.txt">
+    Order allow,deny
+    Deny from all
+</Files>
+
+Header set Content-Security-Policy "default-src 'self'; script-src 'self' https://stackpath.bootstrapcdn.com https://code.jquery.com https://cdnjs.cloudflare.com; style-src 'self' https://stackpath.bootstrapcdn.com 'unsafe-inline'; img-src 'self' data:; font-src 'self'; report-uri /Zad3/blog/csp-report-endpoint.php;"
